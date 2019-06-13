@@ -1,0 +1,103 @@
+---
+title: "Robotic Process Automation"
+author: "Jéssica Félix"
+date: "6/12/2019"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Robotic Process Automation
+
+### Automação de processos robóticos
+
+O RPA é uma ferramenta de *software configurável* que usa *regras de negócios* e *sequências de ações* para concluir automaticamente processos em qualquer *número de aplicativos* diferentes da mesma maneira que um humano faria, com a ajuda de pessoas para o *gerenciamento de exceções*.
+
+
+## Robotic Process Automation
+
+- **Automação baseada em regras** - Robôs que obedecem um conjunto de regras predefinidas que descrevem tarefas.
+
+- **Automação de processos aprimorados** – Robôs que conseguem entender dados não estruturados, comunicação humana (ex: voz ou e-mail) e chegam a conclusões a partir de verificação cruzada de dados.
+
+- **Plataformas cognitivas** – Robôs que aprendem a partir de experiências da mesma maneira que os humanos o fazem, com o objetivo de realizar tarefas complexas sem a interferência humana.
+
+## Não somos os mesmos e não vivemos (e trabalhamos) como nossos pais
+
+Empresas precisam ter modelos de negócios escaláveis e adaptaveis para não desaparecerem
+
+Tudo produz dados e dados são muito valiosos
+
+Estudamos para trabalhar em cargos que ainda nem existem
+
+## RDA - Automatização da área de trabalho robótica
+
+O RDA é um software configurado que trabalha em tempo real com um operador humano, apresentando um conjunto predefinido de informações provenientes de diferentes sistemas para auxiliar o operador na conclusão de fluxos de trabalho ou tarefas geradas pelo operador. Os robôs auxiliam os serviços humanos, como se virassem um assistente pessoal de cada funcionário, em seu computador especificamente.
+
+## RPA e RDA são a mesma coisa?
+RPA automatiza processos completos, já o RDA trabalha em uma máquina, com um funcionário específico, por exemplo. 
+
+**RDA faz o nosso trabalho ser menos monótono**
+
+
+## Comparações
+
+RPA x Inteligência artificial
+
+RPA x Macros de excel
+
+RPA x Business process management tools
+
+## Como começar a aplicar?
+
+O objetivo do RPA é completar tarefas usando sistemas da mesma forma como pessoas usariam, porém, de maneira mais fácil e confiável.
+
+Porém, antes de lotar sua empresa com soluções de I.A., *entenda como os seus processos funcionam*, e qual a melhor forma de realizar cada atividade.
+
+Caso contrário, não importa o quanto a tecnologia seja potente, ela nunca vai resolver o problema.
+
+## Primeiros passos para aplicar RPA em um processo
+
+- Identificar os processos com etapas que sempre serão repetidas ou processos orientados a uma regra de negócio.
+- Entender quais são as conexões com API's utilizadas;
+- Etapas cujas decisões completamente baseadas em lógica e cálculos;
+- Extração ou visualização de dados para relatórios;
+- Processos antigos que tem dificuldade de se integrar com softwares novos.
+
+## Para simplificar:
+
+Tarefas de um colaborador: São baseadas em julgamento ou seguir regras á risca?
+
+Entradas e saídas dos processos: estruturadas e digitais (como planilhas, banco de dados ou CSV) ou são desestruturados e analógicos, como documentos escaneados ou escritos à mão?
+
+Tipos de dados: números e texto ou interpretação de imagens?
+
+**lembrando que estamos falando apenas de RPA, não de I.A.**
+
+# Automação não faz milagre 
+
+Lembre-se que a RPA usa o hardware e conexões assim como uma pessoa usaria. Se o computador está lento no sentido de ineficiência de hardware com o uso de um humano, também o estará com o uso de ferramentas de RPA.
+
+## Áreas que apresentam oportunidades para RPA
+
+- Serviço ao cliente
+- Recursos Humanos
+- Compras
+- Finanças e contabilidade
+- Gestão de dados
+- Auditoria interna
+
+Esta atividade não é sobre criar robôs apenas para substituir pessoas, mas sim, repensar processos.
+
+## Leituras recomendadas
+
+[A Robótica vai mudar a sua empresa. Você sabe como?](https://www.ey.com/br/pt/issues/a_revolucao_robotica_rpa)
+
+[The Difference between Robotic Process Automation and Artificial Intelligence](https://medium.com/@cfb_bots/the-difference-between-robotic-process-automation-and-artificial-intelligence-4a71b4834788)
+
+[The Big RPA Bubble](https://www.forbes.com/sites/cognitiveworld/2018/12/02/the-big-rpa-bubble/#58a4a91a68d9)
+
+## Muito obrigada :D
+
